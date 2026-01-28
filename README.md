@@ -12,3 +12,22 @@ This study investigates latent socioeconomic structures using Unsupervised Learn
 ##  Key Results
 * Successfully identified a "High-Income Employed" cluster vs. a "Moderate-Income" cluster.
 * Proved that financial well-being is more accurately represented through clustering demographics and debt-ratios rather than employment status alone.
+
+
+
+# Personal-Finance-ML-Pipeline
+
+# Personal Finance & Employment Predictive Pipeline
+**Collaborative Team:** Rahma Hamed, Ali Alfadhli, Shahd Derbass
+
+##  Project Overview
+A comprehensive ML pipeline to predict employment status and income variation using synthetic financial datasets. 
+
+##  My Individual Responsibilities (Rahma Hamed)
+* **Lead for Preprocessing (P2):** Developed the data cleaning architecture, handled discretization of Age and Income, and implemented the encoding strategy for categorical features.
+* **Regression Analysis (P3):** Built and tuned the **Linear Regression** model.
+* **Achievement:** My regression model achieved an **R² of 0.77**, successfully explaining 77% of income variation based on savings and debt ratios.
+* **Model Evaluation:** Conducted comparative testing between kNN, Naive Bayes, and Decision Trees, identifying Naive Bayes as the most robust classifier for this specific feature set.
+
+##  Technical Takeaway
+While Linear Regression showed high predictive power, my analysis of the residuals indicated non-linear relationships that suggest the need for more complex polynomial features in future iterations.
