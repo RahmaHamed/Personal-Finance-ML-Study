@@ -1,5 +1,5 @@
 # A Clustering-Based Analysis of Synthetic Socioeconomic Profiles
-**Author:** Rahma Atef (Rahma Hamed) | **Date:** January 2026
+
 
 ## 📄 Abstract
 This research paper explores the latent socioeconomic structures within employment data using **Unsupervised Machine Learning**. Traditional economic analyses often treat "Employment Status" as a binary variable (Employed vs. Unemployed). This study challenges that view by identifying distinct financial "personas" that exist across these boundaries.
