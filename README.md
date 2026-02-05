@@ -58,5 +58,13 @@ I served as the **Lead Data Architect** for the project (P2) and led the **Unsup
 * **Classification:** The team compared kNN, Naive Bayes, and Decision Trees to predict employment status.
 * **Regression:** We implemented Linear Regression to forecast income, achieving an **R² of 0.77**, though residual analysis suggested non-linear complexities.
 
+
+##  Key Findings & Limitations
+* **Recovery Trends:** Data suggests a "return to normal" post-2022, though structural imbalances remain in specific demographic cohorts.
+* **Future Scope:** The analysis highlights that while statistical modeling (EDA) identifies patterns, future iterations require the inclusion of features like Education Level and GDP Growth to establish causal relationships.
+* **Synthetic Data:** Because the analysis is based on synthetic data, results are exploratory and motivate validation on real-world datasets.
+* **Temporal Dynamics:** The cross-sectional nature of the study prevents assessment of income volatility or transitions between employment types over time.
+* **Policy Impact:** Findings suggest that demographic labels alone are insufficient to predict financial stability, requiring targeted interventions
+
 ## 📊 Project Outcome
 This pipeline demonstrates the transition from raw data cleaning (P2) to advanced pattern recognition (P3), highlighting how unsupervised learning can reveal financial truths that supervised classification might miss.
